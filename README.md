@@ -1,7 +1,7 @@
 # My GitHub Pages
 
 Welcome to my personal GitHub Pages website! 🌟
-
+This repository is dedicated to documenting my development journey and experiences.
 This site is hosted on [GitHub Pages](https://pages.github.com/) and serves as a platform where I showcase my projects, share tutorials, and document my learning journey in coding.
 
 ## 🛠️ Features
@@ -9,11 +9,12 @@ This site is hosted on [GitHub Pages](https://pages.github.com/) and serves as a
 - **Blog**: Technical articles and tutorials.
 - **Contact**: Get in touch with me through social media links.
 
+## 📚 About the Project
+- **Purpose:** A space for my development records, learnings, and reflections.
+- **Theme:** Powered by [Jekyll Theme Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
+
 ## 🚀 How to Access
 You can visit the website directly at: [https://venaCode.github.io](https://venaCode.github.io)
-
-## 📄 About the Project
-This website is built using GitHub Pages, which provides a simple way to create personal sites using Markdown and HTML. No need for complex deployments or server configurations!
 
 ## ✨ Technologies Used
 - **HTML/CSS**: For basic layout and styling.
