@@ -29,7 +29,7 @@ tags: [GitHub, GitHub Pages, 블로그, blog, github.io]
 
 # 2. 블로그 생성
 - 블로그는 Github에서 제공해주는 **Gtihub Pages**를 이용하여 생성하였습니다.
-> **GitHub Pages**❓
+> **GitHub Pages**❓ 
     - GitHub Pages는 GitHub를 통해 호스트되고 게시되는 퍼블릭 웹 페이지입니다.
     - 하기 문서 링크는 한글로 명료하게 안내해주어 편합니다.
     - 🔗 [Gihub Docs - GitHub Pages](https://docs.github.com/en/pages/quickstart)
